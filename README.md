@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MajaLu
-- 👀 I’m interested in ...Python and Web Development
-- 🌱 I’m currently learning ...Python, HTML, CSS, JavaScript
+- 👀 I’m interested in ...Data Analysis and Web Development
+- 🌱 I’m currently learning ...Python, JavaScript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...majaglibo@gmail.com
 
